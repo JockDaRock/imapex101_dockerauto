@@ -1,5 +1,5 @@
 FROM debian:latest
-MAINTAINER Your Mom
+MAINTAINER Jockers
 
 # You can provide comments in Dockerfiles
 # Install any needed packages for your application
